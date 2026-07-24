@@ -33,7 +33,6 @@ AI-Resume-Analyzer/
 │
 ├── app.py              # Streamlit Frontend
 ├── model.py            # Machine Learning Model & Backend Logic
-├── requirements.txt
 └── README.md
 ```
 
