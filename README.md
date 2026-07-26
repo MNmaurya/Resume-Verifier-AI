@@ -3,7 +3,7 @@
 An AI-powered Resume Analyzer built using **Python, Streamlit, and Machine Learning** that evaluates resumes based on skills, experience, and education. The application calculates an ATS (Applicant Tracking System) score, predicts whether a resume is likely to be shortlisted, and provides an estimated selection probability.
 
 ---  
-  
+     
 ## 📌 Features
   
 - ✅ ATS Score Calculation (Out of 100) 
