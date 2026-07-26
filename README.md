@@ -5,7 +5,7 @@ An AI-powered Resume Analyzer built using **Python, Streamlit, and Machine Learn
 --- 
 
 ## 📌 Features
-
+ 
 - ✅ ATS Score Calculation (Out of 100)
 - ✅ Intelligent Skill Matching
 - ✅ Resume Shortlisting Prediction
